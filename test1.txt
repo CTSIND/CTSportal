@@ -4,4 +4,8 @@ v;f
 fdvgf
 vfdlv
 f
+<<<<<<< HEAD
 hello qshore
+=======
+devops new btach
+>>>>>>> dev
